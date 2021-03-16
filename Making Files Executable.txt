@@ -1,0 +1,9 @@
+In the directory in which your file is located, type in cmd
+only use -w if your py file does not utilize the console
+pyinstaller --onefile -w filename.py
+
+delete the 
+-build folder 
+-filename.spec
+
+pyinstaller --onefile Towers_of_Hanoi.py

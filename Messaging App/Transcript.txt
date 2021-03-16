@@ -1,0 +1,12 @@
+Person 1
+Hi 
+2020-05-20 22:33:03.10283
+Person 2
+What's up
+2020-05-20 22:33:08.27427
+Person 1
+C:/Users/olatunem/OneDrive - Seton Hall University/Extraneous/PYTHON WORKSPACE/Messaging App/Logo.png
+2020-05-20 22:33:17.20294
+Person 2
+C:/Users/olatunem/OneDrive - Seton Hall University/Desktop/Microsoft OneDrive.url
+2020-05-20 22:38:12.155983
